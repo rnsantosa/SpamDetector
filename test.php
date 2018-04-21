@@ -12,6 +12,7 @@
 
     <body class="bg-light">
         <br>
+        <p> HALOO </p>
         <div class="container">
             <br>   
             <center><img src="foto2.jpg" class="img-fluid rounded-circle" alt="Twitter"></center>
